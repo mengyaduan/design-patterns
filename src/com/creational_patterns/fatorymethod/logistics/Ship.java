@@ -1,4 +1,4 @@
-package com.fatorymethod.logistics;
+package com.creational_patterns.fatorymethod.logistics;
 
 /**
  * @author yameng.dym

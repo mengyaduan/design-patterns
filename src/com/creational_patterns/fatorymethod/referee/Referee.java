@@ -1,4 +1,4 @@
-package com.fatorymethod.referee;
+package com.creational_patterns.fatorymethod.referee;
 
 public abstract class Referee {
 

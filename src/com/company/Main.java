@@ -1,11 +1,11 @@
 package com.company;
 
-import com.fatorymethod.logistics.Logistics;
-import com.fatorymethod.logistics.ShipLogistics;
-import com.fatorymethod.logistics.TruckLogistics;
-import com.fatorymethod.referee.BasketballReferee;
-import com.fatorymethod.referee.Referee;
-import com.fatorymethod.referee.TableTennisReferee;
+import com.creational_patterns.fatorymethod.logistics.Logistics;
+import com.creational_patterns.fatorymethod.logistics.ShipLogistics;
+import com.creational_patterns.fatorymethod.logistics.TruckLogistics;
+import com.creational_patterns.fatorymethod.referee.BasketballReferee;
+import com.creational_patterns.fatorymethod.referee.Referee;
+import com.creational_patterns.fatorymethod.referee.TableTennisReferee;
 
 public class Main {
 
